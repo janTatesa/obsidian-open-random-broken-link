@@ -1,7 +1,7 @@
 {
 	"id": "random-broken-link",
 	"name": "Random broken link",
-	"version": "2.0.0",
+	"version": "2.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Expand your knowledge by visiting random broken links.",
 	"author": "janTatesa",
